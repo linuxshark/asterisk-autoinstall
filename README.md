@@ -14,3 +14,6 @@ apt-get upgrade -y
 
 Clone the complete repository and execute the install script (.sh)
 
+```bash
+git clone git@github.com:linuxshark/asterisk-autoinstall.git
+```
